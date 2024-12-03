@@ -1,0 +1,46 @@
+{
+    "name": "Touhid",
+    "date_of_birth": "07.11.1999",
+    "gender": "Male",
+    "address": {
+      "city": "Dhaka",
+      "Division": "Dhaka",
+      "country": "Bangladesh"
+    },
+    "contact": {
+      "email": "thd@.com",
+      "phone": "4376574365"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science and Engineering",
+        "institution": "Green University",
+        "year_of_graduation": 2026
+      }
+    
+    ],
+   
+    "skills": [
+      "JavaScript",
+      "c",
+      "Java",
+      "SQL",
+      "Project Management"
+    ],
+    "languages": [
+      {
+        "language": "Bangla",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "English",
+        "proficiency": "Intermediate"
+      }
+    ],
+    "hobbies": [
+      "Reading",
+      "Traveling",
+      "Photography"
+    ]
+  }
+  
